@@ -1,4 +1,5 @@
 Transformer-Based English → French Machine Translation (From Scratch)
+
 📌Project Overview
 
 This project implements a Transformer model from scratch for English → French machine translation using PyTorch.
